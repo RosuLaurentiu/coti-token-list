@@ -1,8 +1,8 @@
 {
   "name": "coti-mainnet-token-list",
   "logoURI": "https://assets.coingecko.com/coins/images/2962/standard/Coti.png",
-  "timestamp": "2025-12-26T00:00:00Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "timestamp": "2026-05-19T19:00:14Z",
+  "version": { "major": 1, "minor": 0, "patch": 1 },
   "keywords": ["coti","coti-mainnet","tokenlist", "privacy"],
   "tokens": [
     {
@@ -68,7 +68,14 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xb70c55bd0823436F44877DC6A9f46E0C55f2C3A8",
+      "name": "Whisper (COTI Mainnet)",
+      "symbol": "WISP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/coti-io/coti-token-list/coti-mainnet/assets/chainwhisper.png"
     }
   ]
 }
-

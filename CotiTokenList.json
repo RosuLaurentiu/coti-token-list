@@ -76,6 +76,14 @@
       "symbol": "WISP",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/RosuLaurentiu/coti-token-list/codex/chainwhisper-logo/assets/chainwhisper.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x682e3142e62a7aDe2a0CA5bdC87b205CaDe4B17a",
+      "name": "Private Whisper (COTI Mainnet)",
+      "symbol": "pWISP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/RosuLaurentiu/coti-token-list/codex/chainwhisper-logo/assets/chainwhisper.png"
     }
   ]
 }
